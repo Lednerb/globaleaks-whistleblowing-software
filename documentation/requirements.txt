@@ -4,3 +4,4 @@ sphinx_rtd_theme
 sphinx-autobuild
 sphinx-copybutton
 sphinx-sitemap
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
